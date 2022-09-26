@@ -1,0 +1,373 @@
+,PassengerId,Pclass,Name,Sex,Age,newColuna
+361,362,2,"del Carlo, Mr. Sebastiano",Sex: male,29.0,-15.162355730245762
+286,287,3,"de Mulder, Mr. Theodore",Sex: male,30.0,-15.162355730245762
+559,560,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Sex: female,36.0,-18.53176811474482
+422,423,3,"Zimmerman, Mr. Leo",Sex: male,29.0,-14.600786999495918
+199,200,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Sex: female,24.0,-12.354512076496547
+325,326,1,"Young, Miss. Marie Grice",Sex: female,36.0,-19.654905576244506
+620,621,3,"Yasbeck, Mr. Antoni",Sex: male,27.0,-13.477649537996232
+491,492,3,"Windelov, Mr. Einar",Sex: male,21.0,-10.108237153497175
+735,736,3,"Williams, Mr. Leslie",Sex: male,28.5,-14.320002634120998
+673,674,2,"Wilhelms, Mr. Charles",Sex: male,31.0,-16.28549319174545
+377,378,1,"Widener, Mr. Harry Elkins",Sex: male,27.0,-14.600786999495918
+318,319,1,"Wick, Miss. Mary Natalie",Sex: female,31.0,-16.847061922495293
+102,103,1,"White, Mr. Richard Frasar",Sex: male,21.0,-11.231374614996861
+472,473,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Sex: female,33.0,-17.408630653245133
+450,451,2,"West, Mr. Edwy Arthur",Sex: male,36.0,-19.09333684549466
+133,134,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Sex: female,29.0,-15.162355730245762
+123,124,2,"Webber, Miss. Susan",Sex: female,32.5,-17.127846287870213
+258,259,1,"Ward, Miss. Anna",Sex: female,35.0,-19.09333684549466
+80,81,3,"Waelens, Mr. Achille",Sex: male,22.0,-10.669805884247017
+521,522,3,"Vovk, Mr. Janko",Sex: male,22.0,-10.669805884247017
+18,19,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Sex: female,31.0,-15.723924460995605
+355,356,3,"Vanden Steen, Mr. Leo Peter",Sex: male,28.0,-14.039218268746076
+200,201,3,"Vande Walle, Mr. Nestor Cyriel",Sex: male,28.0,-14.039218268746076
+752,753,3,"Vande Velde, Mr. Johannes Joseph",Sex: male,33.0,-16.847061922495293
+799,800,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Sex: female,30.0,-15.162355730245762
+595,596,3,"Van Impe, Mr. Jean Baptiste",Sex: male,36.0,-18.53176811474482
+41,42,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Sex: female,27.0,-14.039218268746076
+117,118,2,"Turpin, Mr. William John Robert",Sex: male,29.0,-15.162355730245762
+189,190,3,"Turcin, Mr. Stjepan",Sex: male,36.0,-18.53176811474482
+717,718,2,"Troutt, Miss. Edwina Celia ""Winnie""",Sex: female,27.0,-14.039218268746076
+399,400,2,"Trout, Mrs. William H (Jessie L)",Sex: female,28.0,-14.600786999495918
+734,735,2,"Troupiansky, Mr. Moses Aaron",Sex: male,23.0,-11.792943345746703
+255,256,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Sex: female,29.0,-14.600786999495918
+271,272,3,"Tornquist, Mr. William Henry",Sex: male,25.0,-12.354512076496547
+814,815,3,"Tomlin, Mr. Ernest Portage",Sex: male,30.5,-15.443140095620684
+382,383,3,"Tikkanen, Mr. Juho",Sex: male,32.0,-16.28549319174545
+758,759,3,"Theobald, Mr. Thomas Leonard",Sex: male,34.0,-17.408630653245133
+581,582,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Sex: female,39.0,-21.339611768494034
+558,559,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Sex: female,39.0,-21.339611768494034
+499,500,3,"Svensson, Mr. Olof",Sex: male,24.0,-11.792943345746703
+884,885,3,"Sutehall, Mr. Henry Jr",Sex: male,25.0,-12.354512076496547
+251,252,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Sex: female,29.0,-14.600786999495918
+744,745,3,"Stranden, Mr. Juho",Sex: male,31.0,-15.723924460995605
+474,475,3,"Strandberg, Miss. Ida Sofia",Sex: female,22.0,-10.669805884247017
+494,495,3,"Stanley, Mr. Edward Roland",Sex: male,21.0,-10.108237153497175
+649,650,3,"Stanley, Miss. Amy Zillah Elsie",Sex: female,23.0,-11.231374614996861
+285,286,3,"Stankovic, Mr. Ivan",Sex: male,33.0,-16.847061922495293
+632,633,1,"Stahelin-Maeglin, Dr. Max",Sex: male,32.0,-17.408630653245133
+488,489,3,"Somerton, Mr. Francis William",Sex: male,30.0,-15.162355730245762
+134,135,2,"Sobey, Mr. Samuel James Hayden",Sex: male,25.0,-12.91608080724639
+23,24,1,"Sloper, Mr. William Thompson",Sex: male,28.0,-15.162355730245762
+812,813,2,"Slemen, Mr. Richard James",Sex: male,35.0,-18.53176811474482
+322,323,2,"Slayter, Miss. Hilda Mary",Sex: female,30.0,-15.723924460995605
+173,174,3,"Sivola, Mr. Antti Wilhelm",Sex: male,21.0,-10.108237153497175
+60,61,3,"Sirayanian, Mr. Orsen",Sex: male,22.0,-10.669805884247017
+747,748,2,"Sinkkonen, Miss. Anna",Sex: female,30.0,-15.723924460995605
+577,578,1,"Silvey, Mrs. William Baird (Alice Munger)",Sex: female,39.0,-21.339611768494034
+701,702,1,"Silverthorne, Mr. Spencer Victor",Sex: male,35.0,-19.09333684549466
+880,881,2,"Shelley, Mrs. William (Imanita Parrish Hall)",Sex: female,25.0,-12.91608080724639
+81,82,3,"Sheerlinck, Mr. Jan Baptist",Sex: male,29.0,-14.600786999495918
+551,552,2,"Sharp, Mr. Percival James R",Sex: male,27.0,-14.039218268746076
+447,448,1,"Seward, Mr. Frederic Kimber",Sex: male,34.0,-18.53176811474482
+842,843,1,"Serepeca, Miss. Augusta",Sex: female,30.0,-16.28549319174545
+343,344,2,"Sedgwick, Mr. Charles Frederick Waddington",Sex: male,25.0,-12.91608080724639
+676,677,3,"Sawyer, Mr. Frederick Charles",Sex: male,24.5,-12.073727711121625
+394,395,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Sex: female,24.0,-11.792943345746703
+528,529,3,"Salonen, Mr. Johan Werner",Sex: male,39.0,-20.21647430699435
+106,107,3,"Salkjelsvik, Miss. Anna Kristine",Sex: female,21.0,-10.108237153497175
+641,642,1,"Sagesser, Mlle. Emma",Sex: female,24.0,-12.91608080724639
+693,694,3,"Saad, Mr. Khalil",Sex: male,25.0,-12.354512076496547
+742,743,1,"Ryerson, Miss. Susan Parker ""Suzette""",Sex: female,21.0,-11.231374614996861
+56,57,2,"Rugg, Miss. Emily",Sex: female,21.0,-10.669805884247017
+759,760,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Sex: female,33.0,-17.970199383994977
+583,584,1,"Ross, Mr. John Hugo",Sex: male,36.0,-19.654905576244506
+867,868,1,"Roebling, Mr. Washington Augustus II",Sex: male,31.0,-16.847061922495293
+590,591,3,"Rintamaki, Mr. Matti",Sex: male,35.0,-17.970199383994977
+373,374,1,"Ringhini, Mr. Sante",Sex: male,22.0,-11.792943345746703
+437,438,2,"Richards, Mrs. Sidney (Emily Hocking)",Sex: female,24.0,-12.354512076496547
+135,136,2,"Richard, Mr. Emile",Sex: male,23.0,-11.792943345746703
+885,886,3,"Rice, Mrs. William (Margaret Norton)",Sex: female,39.0,-20.21647430699435
+443,444,2,"Reynaldo, Ms. Encarnacion",Sex: female,28.0,-14.600786999495918
+822,823,1,"Reuchlin, Jonkheer. John George",Sex: male,38.0,-20.778043037744194
+726,727,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Sex: female,30.0,-15.723924460995605
+476,477,2,"Renouf, Mr. Peter Henry",Sex: male,34.0,-17.970199383994977
+108,109,3,"Rekic, Mr. Tido",Sex: male,38.0,-19.654905576244506
+265,266,2,"Reeves, Mr. David",Sex: male,36.0,-19.09333684549466
+506,507,2,"Quick, Mrs. Frederick Charles (Jane Richards)",Sex: female,33.0,-17.408630653245133
+800,801,2,"Ponesell, Mr. Martin",Sex: male,34.0,-17.970199383994977
+190,191,2,"Pinsky, Mrs. (Rosa)",Sex: female,32.0,-16.847061922495293
+429,430,3,"Pickard, Mr. Berk (Berk Trembisky)",Sex: male,32.0,-16.28549319174545
+442,443,3,"Petterson, Mr. Johan Emil",Sex: male,25.0,-12.354512076496547
+100,101,3,"Petranec, Miss. Matilda",Sex: female,28.0,-14.039218268746076
+267,268,3,"Persson, Mr. Ernst Ulrik",Sex: male,25.0,-12.354512076496547
+520,521,1,"Perreault, Miss. Anne",Sex: female,30.0,-16.28549319174545
+212,213,3,"Perkin, Mr. John Henry",Sex: male,22.0,-10.669805884247017
+115,116,3,"Pekoniemi, Mr. Edvard",Sex: male,21.0,-10.108237153497175
+151,152,1,"Pears, Mrs. Thomas (Edith Wearne)",Sex: female,22.0,-11.792943345746703
+336,337,1,"Pears, Mr. Thomas Clinton",Sex: male,29.0,-15.723924460995605
+519,520,3,"Pavlovic, Mr. Stefo",Sex: male,32.0,-16.28549319174545
+836,837,3,"Pasic, Mr. Jakob",Sex: male,21.0,-10.108237153497175
+567,568,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Sex: female,29.0,-14.600786999495918
+398,399,2,"Pain, Dr. Alfred",Sex: male,23.0,-11.792943345746703
+795,796,2,"Otter, Mr. Richard",Sex: male,39.0,-20.778043037744194
+797,798,3,"Osman, Mrs. Mara",Sex: female,31.0,-15.723924460995605
+281,282,3,"Olsson, Mr. Nils Johan Goransson",Sex: male,28.0,-14.039218268746076
+396,397,3,"Olsson, Miss. Elina",Sex: female,31.0,-15.723924460995605
+508,509,3,"Olsen, Mr. Henry Margido",Sex: male,28.0,-14.039218268746076
+554,555,3,"Ohman, Miss. Velin",Sex: female,22.0,-10.669805884247017
+350,351,3,"Odahl, Mr. Nils Martin",Sex: male,23.0,-11.231374614996861
+141,142,3,"Nysten, Miss. Anna Sofia",Sex: female,22.0,-10.669805884247017
+66,67,2,"Nye, Mrs. (Elizabeth Ramell)",Sex: female,29.0,-15.162355730245762
+57,58,3,"Novel, Mr. Mansouer",Sex: male,28.5,-14.320002634120998
+51,52,3,"Nosworthy, Mr. Richard Cater",Sex: male,21.0,-10.108237153497175
+562,563,2,"Norman, Mr. Robert Douglas",Sex: male,28.0,-14.600786999495918
+400,401,3,"Niskanen, Mr. Juha",Sex: male,39.0,-20.21647430699435
+315,316,3,"Nilsson, Miss. Helmina Josefina",Sex: female,26.0,-12.91608080724639
+393,394,1,"Newell, Miss. Marjorie",Sex: female,23.0,-12.354512076496547
+215,216,1,"Newell, Miss. Madeleine",Sex: female,31.0,-16.847061922495293
+148,149,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",Sex: male,36.5,-19.374121210869585
+273,274,1,"Natsch, Mr. Charles H",Sex: male,37.0,-20.21647430699435
+122,123,2,"Nasser, Mr. Nicholas",Sex: male,32.5,-17.127846287870213
+287,288,3,"Naidenoff, Mr. Penko",Sex: male,22.0,-10.669805884247017
+461,462,3,"Morley, Mr. William",Sex: male,34.0,-17.408630653245133
+705,706,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Sex: male,39.0,-20.778043037744194
+823,824,3,"Moor, Mrs. (Beila)",Sex: female,27.0,-13.477649537996232
+886,887,2,"Montvila, Rev. Juozas",Sex: male,27.0,-14.039218268746076
+75,76,3,"Moen, Mr. Sigurd Hansen",Sex: male,25.0,-12.354512076496547
+105,106,3,"Mionoff, Mr. Stoytcho",Sex: male,28.0,-14.039218268746076
+294,295,3,"Mineff, Mr. Ivan",Sex: male,24.0,-11.792943345746703
+412,413,1,"Minahan, Miss. Daisy E",Sex: female,33.0,-17.970199383994977
+34,35,1,"Meyer, Mr. Edgar Joseph",Sex: male,28.0,-15.162355730245762
+808,809,2,"Meyer, Mr. August",Sex: male,39.0,-20.778043037744194
+743,744,3,"McNamee, Mr. Neal",Sex: male,24.0,-11.792943345746703
+512,513,1,"McGough, Mr. James Robert",Sex: male,36.0,-19.654905576244506
+710,711,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Sex: female,24.0,-12.91608080724639
+418,419,2,"Matthews, Mr. William John",Sex: male,30.0,-15.723924460995605
+881,882,3,"Markun, Mr. Johann",Sex: male,33.0,-16.847061922495293
+847,848,3,"Markoff, Mr. Marin",Sex: male,35.0,-17.970199383994977
+767,768,3,"Mangan, Miss. Mary",Sex: female,30.5,-15.443140095620684
+817,818,2,"Mallet, Mr. Albert",Sex: male,31.0,-16.28549319174545
+243,244,3,"Maenpaa, Mr. Matti Alexanteri",Sex: male,22.0,-10.669805884247017
+127,128,3,"Madsen, Mr. Fridtjof Arne",Sex: male,24.0,-11.792943345746703
+821,822,3,"Lulic, Mr. Nikola",Sex: male,27.0,-13.477649537996232
+227,228,3,"Lovell, Mr. John Hall (""Henry"")",Sex: male,20.5,-9.827452788122253
+627,628,1,"Longley, Miss. Gretchen Fiske",Sex: female,21.0,-11.231374614996861
+782,783,1,"Long, Mr. Milton Clyde",Sex: male,29.0,-15.723924460995605
+617,618,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Sex: female,26.0,-12.91608080724639
+253,254,3,"Lobb, Mr. William Arthur",Sex: male,30.0,-15.162355730245762
+169,170,3,"Ling, Mr. Lee",Sex: male,28.0,-14.039218268746076
+605,606,3,"Lindell, Mr. Edvard Bengtsson",Sex: male,36.0,-18.53176811474482
+246,247,3,"Lindahl, Miss. Agda Thorilda Viktoria",Sex: female,25.0,-12.354512076496547
+770,771,3,"Lievens, Mr. Rene Aime",Sex: male,24.0,-11.792943345746703
+234,235,2,"Leyson, Mr. Robert William Norman",Sex: male,24.0,-12.354512076496547
+292,293,2,"Levy, Mr. Rene Jacques",Sex: male,36.0,-19.09333684549466
+737,738,1,"Lesurer, Mr. Gustave J",Sex: male,35.0,-19.09333684549466
+811,812,3,"Lester, Mr. James",Sex: male,39.0,-20.21647430699435
+179,180,3,"Leonard, Mr. Lionel",Sex: male,36.0,-18.53176811474482
+516,517,2,"Lemore, Mrs. (Amelia Milley)",Sex: female,34.0,-17.970199383994977
+843,844,3,"Lemberopolous, Mr. Peter L",Sex: male,34.5,-17.689415018620057
+636,637,3,"Leinonen, Mr. Antti Gustaf",Sex: male,32.0,-16.28549319174545
+553,554,3,"Leeni, Mr. Fahim (""Philip Zenni"")",Sex: male,22.0,-10.669805884247017
+537,538,1,"LeRoy, Miss. Bertha",Sex: female,30.0,-16.28549319174545
+231,232,3,"Larsson, Mr. Bengt Edvin",Sex: male,29.0,-14.600786999495918
+713,714,3,"Larsson, Mr. August Viktor",Sex: male,29.0,-14.600786999495918
+608,609,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Sex: female,22.0,-11.231374614996861
+685,686,2,"Laroche, Mr. Joseph Philippe Lemercier",Sex: male,25.0,-12.91608080724639
+509,510,3,"Lang, Mr. Fang",Sex: male,26.0,-12.91608080724639
+376,377,3,"Landergren, Miss. Aurora Adelia",Sex: female,22.0,-10.669805884247017
+503,504,3,"Laitinen, Miss. Kristina Sofia",Sex: female,37.0,-19.09333684549466
+312,313,2,"Lahtinen, Mrs. William (Anna Sylfven)",Sex: female,26.0,-13.477649537996232
+439,440,2,"Kvillner, Mr. Johan Henrik Johannesson",Sex: male,31.0,-16.28549319174545
+69,70,3,"Kink, Mr. Vincenz",Sex: male,26.0,-12.91608080724639
+478,479,3,"Karlsson, Mr. Nils August",Sex: male,22.0,-10.669805884247017
+606,607,3,"Karaic, Mr. Milan",Sex: male,30.0,-15.162355730245762
+316,317,2,"Kantor, Mrs. Sinai (Miriam Sternin)",Sex: female,24.0,-12.354512076496547
+99,100,2,"Kantor, Mr. Sinai",Sex: male,34.0,-17.970199383994977
+652,653,3,"Kalvik, Mr. Johannes Halvorsen",Sex: male,21.0,-10.108237153497175
+579,580,3,"Jussila, Mr. Eiriik",Sex: male,32.0,-16.28549319174545
+402,403,3,"Jussila, Miss. Mari Aina",Sex: female,21.0,-10.108237153497175
+569,570,3,"Jonsson, Mr. Carl",Sex: male,32.0,-16.28549319174545
+753,754,3,"Jonkoff, Mr. Lalio",Sex: male,23.0,-11.231374614996861
+8,9,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Sex: female,27.0,-13.477649537996232
+719,720,3,"Johnson, Mr. Malkolm Joackim",Sex: male,33.0,-16.847061922495293
+805,806,3,"Johansson, Mr. Karl Johan",Sex: male,31.0,-15.723924460995605
+103,104,3,"Johansson, Mr. Gustaf Joel",Sex: male,33.0,-16.847061922495293
+395,396,3,"Johansson, Mr. Erik",Sex: male,22.0,-10.669805884247017
+202,203,3,"Johanson, Mr. Jakob Alfred",Sex: male,34.0,-17.408630653245133
+473,474,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Sex: female,23.0,-11.792943345746703
+70,71,2,"Jenkin, Mr. Stephen Curnow",Sex: male,32.0,-16.847061922495293
+391,392,3,"Jansson, Mr. Carl Olof",Sex: male,21.0,-10.108237153497175
+455,456,3,"Jalsevac, Mr. Ivan",Sex: male,29.0,-14.600786999495918
+600,601,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Sex: female,24.0,-12.354512076496547
+729,730,3,"Ilmakangas, Miss. Pieta Sofia",Sex: female,25.0,-12.354512076496547
+61,62,1,"Icard, Miss. Amelie",Sex: female,38.0,-20.778043037744194
+798,799,3,"Ibrahim Shawah, Mr. Yousseff",Sex: male,30.0,-15.162355730245762
+239,240,2,"Hunt, Mr. George Henry",Sex: male,33.0,-17.408630653245133
+486,487,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Sex: female,35.0,-19.09333684549466
+224,225,1,"Hoyt, Mr. Frederick Maxfield",Sex: male,38.0,-20.778043037744194
+72,73,2,"Hood, Mr. Ambrose Jr",Sex: male,21.0,-10.669805884247017
+216,217,3,"Honkanen, Miss. Eliina",Sex: female,27.0,-13.477649537996232
+604,605,1,"Homer, Mr. Harry (""Mr E Haven"")",Sex: male,35.0,-19.09333684549466
+383,384,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Sex: female,35.0,-19.09333684549466
+529,530,2,"Hocking, Mr. Richard George",Sex: male,23.0,-11.792943345746703
+120,121,2,"Hickman, Mr. Stanley George",Sex: male,21.0,-10.669805884247017
+665,666,2,"Hickman, Mr. Lewis",Sex: male,32.0,-16.847061922495293
+655,656,2,"Hickman, Mr. Leonard Mark",Sex: male,24.0,-12.354512076496547
+615,616,2,"Herman, Miss. Alice",Sex: female,24.0,-12.354512076496547
+313,314,3,"Hendekovic, Mr. Ignjac",Sex: male,28.0,-14.039218268746076
+816,817,3,"Heininen, Miss. Wendla Maria",Sex: female,23.0,-11.231374614996861
+2,3,3,"Heikkinen, Miss. Laina",Sex: female,26.0,-12.91608080724639
+804,805,3,"Hedman, Mr. Oskar Arvid",Sex: male,27.0,-13.477649537996232
+310,311,1,"Hays, Miss. Margaret Bechstein",Sex: female,24.0,-12.91608080724639
+681,682,1,"Hassab, Mr. Hammad",Sex: male,27.0,-14.600786999495918
+230,231,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Sex: female,35.0,-19.09333684549466
+219,220,2,"Harris, Mr. Walter",Sex: male,30.0,-15.723924460995605
+848,849,2,"Harper, Rev. John",Sex: male,28.0,-14.600786999495918
+785,786,3,"Harmer, Mr. Abraham (David Lishin)",Sex: male,25.0,-12.354512076496547
+370,371,1,"Harder, Mr. George Achilles",Sex: male,25.0,-13.477649537996232
+623,624,3,"Hansen, Mr. Henry Damsgaard",Sex: male,21.0,-10.108237153497175
+704,705,3,"Hansen, Mr. Henrik Juul",Sex: male,26.0,-12.91608080724639
+296,297,3,"Hanna, Mr. Mansour",Sex: male,23.5,-11.512158980371781
+247,248,2,"Hamalainen, Mrs. William (Anna)",Sex: female,24.0,-12.354512076496547
+178,179,2,"Hale, Mr. Reginald",Sex: male,30.0,-15.723924460995605
+142,143,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Sex: female,24.0,-11.792943345746703
+403,404,3,"Hakkarainen, Mr. Pekka Pietari",Sex: male,28.0,-14.039218268746076
+293,294,3,"Haas, Miss. Aloisia",Sex: female,24.0,-11.792943345746703
+392,393,3,"Gustafsson, Mr. Johan Birger",Sex: male,28.0,-14.039218268746076
+104,105,3,"Gustafsson, Mr. Anders Vilhelm",Sex: male,37.0,-19.09333684549466
+769,770,3,"Gronnestad, Mr. Daniel Danielsen",Sex: male,32.0,-16.28549319174545
+97,98,1,"Greenfield, Mr. William Bertram",Sex: male,23.0,-12.354512076496547
+332,333,1,"Graham, Mr. George Edward",Sex: male,38.0,-20.778043037744194
+465,466,3,"Goncalves, Mr. Manuel Estanslas",Sex: male,38.0,-19.654905576244506
+328,329,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Sex: female,31.0,-15.723924460995605
+548,549,3,"Goldsmith, Mr. Frank John",Sex: male,33.0,-16.847061922495293
+213,214,2,"Givard, Mr. Hans Kristensen",Sex: male,30.0,-15.723924460995605
+722,723,2,"Gillespie, Mr. William Henry",Sex: male,34.0,-17.970199383994977
+864,865,2,"Gill, Mr. John William",Sex: male,24.0,-12.354512076496547
+588,589,3,"Gilinski, Mr. Eliezer",Sex: male,22.0,-10.669805884247017
+861,862,2,"Giles, Mr. Frederick Edward",Sex: male,21.0,-10.669805884247017
+139,140,1,"Giglio, Mr. Victor",Sex: male,24.0,-12.91608080724639
+619,620,2,"Gavey, Mr. Lawrence",Sex: male,26.0,-13.477649537996232
+576,577,2,"Garside, Miss. Ethel",Sex: female,34.0,-17.970199383994977
+703,704,3,"Gallagher, Mr. Martin",Sex: male,25.0,-12.354512076496547
+405,406,2,"Gale, Mr. Shadrach",Sex: male,34.0,-17.970199383994977
+20,21,2,"Fynney, Mr. Joseph J",Sex: male,35.0,-18.53176811474482
+3,4,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Sex: female,35.0,-19.09333684549466
+137,138,1,"Futrelle, Mr. Jacques Heath",Sex: male,37.0,-20.21647430699435
+357,358,2,"Funk, Miss. Annie Clemmer",Sex: female,38.0,-20.21647430699435
+539,540,1,"Frolicher, Miss. Hedwig Margaritha",Sex: female,22.0,-11.792943345746703
+309,310,1,"Francatelli, Miss. Laura Mabel",Sex: female,30.0,-16.28549319174545
+344,345,2,"Fox, Mr. Stanley Hubert",Sex: male,36.0,-19.09333684549466
+88,89,1,"Fortune, Miss. Mabel Helen",Sex: female,23.0,-12.354512076496547
+341,342,1,"Fortune, Miss. Alice Elizabeth",Sex: female,24.0,-12.91608080724639
+452,453,1,"Foreman, Mr. Benjamin Laventall",Sex: male,30.0,-16.28549319174545
+436,437,3,"Ford, Miss. Doolina Margaret ""Daisy""",Sex: female,21.0,-10.108237153497175
+572,573,1,"Flynn, Mr. John Irwin (""Irving"")",Sex: male,36.0,-19.654905576244506
+53,54,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Sex: female,29.0,-15.162355730245762
+716,717,1,"Endres, Miss. Caroline Louise",Sex: female,38.0,-20.778043037744194
+658,659,2,"Eitemiller, Mr. George Floyd",Sex: male,23.0,-11.792943345746703
+866,867,2,"Duran y More, Miss. Asuncion",Sex: female,27.0,-14.039218268746076
+416,417,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Sex: female,34.0,-17.970199383994977
+130,131,3,"Drazenoic, Mr. Jozef",Sex: male,33.0,-16.847061922495293
+79,80,3,"Dowdell, Miss. Elizabeth",Sex: female,30.0,-15.162355730245762
+890,891,3,"Dooley, Mr. Patrick",Sex: male,32.0,-16.28549319174545
+98,99,2,"Doling, Mrs. John T (Ada Julia Bone)",Sex: female,34.0,-17.970199383994977
+690,691,1,"Dick, Mr. Albert Adrian",Sex: male,31.0,-16.847061922495293
+320,321,3,"Dennis, Mr. Samuel",Sex: male,22.0,-10.669805884247017
+93,94,3,"Dean, Mr. Bertram Frank",Sex: male,26.0,-12.91608080724639
+635,636,2,"Davis, Miss. Mary",Sex: female,28.0,-14.600786999495918
+565,566,3,"Davies, Mr. Alfred J",Sex: male,24.0,-11.792943345746703
+671,672,1,"Davidson, Mr. Thornton",Sex: male,31.0,-16.847061922495293
+794,795,3,"Dantcheff, Mr. Ristiu",Sex: male,25.0,-12.354512076496547
+321,322,3,"Danoff, Mr. Yoto",Sex: male,27.0,-13.477649537996232
+607,608,1,"Daniel, Mr. Robert Williams",Sex: male,27.0,-14.600786999495918
+423,424,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Sex: female,28.0,-14.039218268746076
+616,617,3,"Danbom, Mr. Ernst Gilbert",Sex: male,34.0,-17.408630653245133
+510,511,3,"Daly, Mr. Eugene Patrick",Sex: male,29.0,-14.600786999495918
+882,883,3,"Dahlberg, Miss. Gerda Ulrika",Sex: female,22.0,-10.669805884247017
+1,2,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Sex: female,38.0,-20.778043037744194
+540,541,1,"Crosby, Miss. Harriet R",Sex: female,36.0,-19.654905576244506
+157,158,3,"Corn, Mr. Harry",Sex: male,30.0,-15.162355730245762
+289,290,3,"Connolly, Miss. Kate",Sex: female,22.0,-10.669805884247017
+749,750,3,"Connaghton, Mr. Michael",Sex: male,31.0,-15.723924460995605
+835,836,1,"Compton, Miss. Sara Rebecca",Sex: female,39.0,-21.339611768494034
+801,802,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Sex: female,31.0,-16.28549319174545
+637,638,2,"Collyer, Mr. Harvey",Sex: male,31.0,-16.28549319174545
+342,343,2,"Collander, Mr. Erik Gustaf",Sex: male,28.0,-14.600786999495918
+242,243,2,"Coleridge, Mr. Reginald Charles",Sex: male,29.0,-15.162355730245762
+514,515,3,"Coleff, Mr. Satio",Sex: male,24.0,-11.792943345746703
+663,664,3,"Coleff, Mr. Peju",Sex: male,36.0,-18.53176811474482
+708,709,1,"Cleaver, Miss. Alice",Sex: female,22.0,-11.792943345746703
+426,427,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Sex: female,28.0,-14.600786999495918
+73,74,3,"Chronopoulos, Mr. Apostolos",Sex: male,26.0,-12.91608080724639
+580,581,2,"Christy, Miss. Julie Rachel",Sex: female,25.0,-12.91608080724639
+90,91,3,"Christmann, Mr. Emil",Sex: male,29.0,-14.600786999495918
+838,839,3,"Chip, Mr. Chang",Sex: male,32.0,-16.28549319174545
+257,258,1,"Cherry, Miss. Gladys",Sex: female,30.0,-16.28549319174545
+421,422,3,"Charters, Mr. David",Sex: male,21.0,-10.108237153497175
+594,595,2,"Chapman, Mr. John Henry",Sex: male,37.0,-19.654905576244506
+809,810,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Sex: female,33.0,-17.970199383994977
+724,725,1,"Chambers, Mr. Norman Campbell",Sex: male,27.0,-14.600786999495918
+89,90,3,"Celotti, Mr. Francesco",Sex: male,24.0,-11.792943345746703
+741,742,1,"Cavendish, Mr. Tyrell William",Sex: male,36.0,-19.654905576244506
+763,764,1,"Carter, Mrs. William Ernest (Lucile Polk)",Sex: female,36.0,-19.654905576244506
+390,391,1,"Carter, Mr. William Ernest",Sex: male,36.0,-19.654905576244506
+83,84,1,"Carrau, Mr. Francisco M",Sex: male,28.0,-15.162355730245762
+872,873,1,"Carlsson, Mr. Frans Olof",Sex: male,33.0,-17.970199383994977
+756,757,3,"Carlsson, Mr. August Sigfrid",Sex: male,28.0,-14.039218268746076
+679,680,1,"Cardeza, Mr. Thomas Drake Martinez",Sex: male,36.0,-19.654905576244506
+37,38,3,"Cann, Mr. Ernest Charles",Sex: male,21.0,-10.108237153497175
+501,502,3,"Canavan, Miss. Mary",Sex: female,21.0,-10.108237153497175
+211,212,2,"Cameron, Miss. Clear Annie",Sex: female,35.0,-18.53176811474482
+323,324,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Sex: female,22.0,-11.231374614996861
+471,472,3,"Cacic, Mr. Luka",Sex: male,38.0,-19.654905576244506
+534,535,3,"Cacic, Miss. Marija",Sex: female,30.0,-15.162355730245762
+666,667,2,"Butler, Mr. Reginald Fenton",Sex: male,25.0,-12.91608080724639
+387,388,2,"Buss, Miss. Kate",Sex: female,36.0,-19.09333684549466
+728,729,2,"Bryhl, Mr. Kurt Arnold Gottfrid",Sex: male,25.0,-12.91608080724639
+345,346,2,"Brown, Miss. Amelia ""Mildred""",Sex: female,24.0,-12.354512076496547
+614,615,3,"Brocklebank, Mr. William Alfred",Sex: male,35.0,-17.970199383994977
+0,1,3,"Braund, Mr. Owen Harris",Sex: male,22.0,-10.669805884247017
+477,478,3,"Braund, Mr. Lewis Richard",Sex: male,29.0,-14.600786999495918
+221,222,2,"Bracken, Mr. James H",Sex: male,27.0,-14.039218268746076
+356,357,1,"Bowerman, Miss. Elsie Edith",Sex: female,22.0,-11.792943345746703
+624,625,3,"Bowen, Mr. David John ""Dai""",Sex: male,21.0,-10.108237153497175
+657,658,3,"Bourke, Mrs. John (Catherine)",Sex: female,32.0,-16.28549319174545
+628,629,3,"Bostandyeff, Mr. Guentcho",Sex: male,26.0,-12.91608080724639
+430,431,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Sex: male,28.0,-15.162355730245762
+269,270,1,"Bissette, Miss. Amelia",Sex: female,35.0,-19.09333684549466
+484,485,1,"Bishop, Mr. Dickinson H",Sex: male,25.0,-13.477649537996232
+408,409,3,"Birkeland, Mr. Hans Martin Monsen",Sex: male,21.0,-10.108237153497175
+74,75,3,"Bing, Mr. Lee",Sex: male,32.0,-16.28549319174545
+733,734,2,"Berriman, Mr. William John",Sex: male,23.0,-11.792943345746703
+225,226,3,"Berglund, Mr. Karl Ivar Sven",Sex: male,22.0,-10.669805884247017
+162,163,3,"Bengtsson, Mr. John Viktor",Sex: male,26.0,-12.91608080724639
+889,890,1,"Behr, Mr. Karl Howell",Sex: male,26.0,-14.039218268746076
+21,22,2,"Beesley, Mr. Lawrence",Sex: male,34.0,-17.970199383994977
+248,249,1,"Beckwith, Mr. Richard Leonard",Sex: male,37.0,-20.21647430699435
+543,544,2,"Beane, Mr. Edward",Sex: male,32.0,-16.847061922495293
+218,219,1,"Bazzani, Miss. Albina",Sex: female,32.0,-17.408630653245133
+118,119,1,"Baxter, Mr. Quigg Edmond",Sex: male,24.0,-12.91608080724639
+112,113,3,"Barton, Mr. David John",Sex: male,22.0,-10.669805884247017
+290,291,1,"Barber, Miss. Ellen ""Nellie""",Sex: female,26.0,-14.039218268746076
+883,884,2,"Banfield, Mr. Frederick James",Sex: male,28.0,-14.600786999495918
+327,328,2,"Ball, Mrs. (Ada E Hall)",Sex: female,36.0,-19.09333684549466
+870,871,3,"Balkic, Mr. Cerin",Sex: male,26.0,-12.91608080724639
+858,859,3,"Baclini, Mrs. Solomon (Latifa Qurban)",Sex: female,24.0,-11.792943345746703
+85,86,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Sex: female,33.0,-16.847061922495293
+206,207,3,"Backstrom, Mr. Karl Alfred",Sex: male,32.0,-16.28549319174545
+833,834,3,"Augustsson, Mr. Albert",Sex: male,23.0,-11.231374614996861
+369,370,1,"Aubart, Mme. Leontine Pauline",Sex: female,24.0,-12.91608080724639
+244,245,3,"Attalah, Mr. Sleiman",Sex: male,30.0,-15.162355730245762
+25,26,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Sex: female,38.0,-19.654905576244506
+363,364,3,"Asim, Mr. Adola",Sex: male,35.0,-17.970199383994977
+353,354,3,"Arnold-Franchi, Mr. Josef",Sex: male,25.0,-12.354512076496547
+518,519,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Sex: female,36.0,-19.09333684549466
+806,807,1,"Andrews, Mr. Thomas Jr",Sex: male,39.0,-21.339611768494034
+610,611,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Sex: female,39.0,-20.21647430699435
+146,147,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",Sex: male,27.0,-13.477649537996232
+13,14,3,"Andersson, Mr. Anders Johan",Sex: male,39.0,-20.21647430699435
+498,499,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Sex: female,25.0,-13.477649537996232
+4,5,3,"Allen, Mr. William Henry",Sex: male,35.0,-17.970199383994977
+730,731,1,"Allen, Miss. Elisabeth Walton",Sex: female,29.0,-15.723924460995605
+784,785,3,"Ali, Mr. William",Sex: male,25.0,-12.354512076496547
+210,211,3,"Ali, Mr. Ahmed",Sex: male,24.0,-11.792943345746703
+810,811,3,"Alexander, Mr. William",Sex: male,26.0,-12.91608080724639
+207,208,3,"Albimona, Mr. Nassef Cassem",Sex: male,26.0,-12.91608080724639
+401,402,3,"Adams, Mr. John",Sex: male,26.0,-12.91608080724639
+365,366,3,"Adahl, Mr. Mauritz Nils Martin",Sex: male,30.0,-15.162355730245762
+874,875,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",Sex: female,28.0,-14.600786999495918
+308,309,2,"Abelson, Mr. Samuel",Sex: male,30.0,-15.723924460995605
+279,280,3,"Abbott, Mrs. Stanton (Rosa Hunt)",Sex: female,35.0,-17.970199383994977
